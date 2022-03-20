@@ -6,8 +6,7 @@
 <p align="left">
     <span></span>
 <p>
-<h1 align="center">Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-        width="30px"> I'm Filipe from Portugal</h1>
+<h1 align="center">Welcome, I'm Filipe from Portugal</h1>
 
 ## 🙋‍♂️ About Me
 
@@ -42,6 +41,9 @@
             src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /> </a>
     <a href="https://postman.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45"
+            height="45" /> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="45"
             height="45" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" /> </a>
 </p>
