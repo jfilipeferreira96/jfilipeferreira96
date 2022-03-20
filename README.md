@@ -43,7 +43,7 @@
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45"
             height="45" /> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="45"
+            src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="45"
             height="45" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" /> </a>
 </p>
