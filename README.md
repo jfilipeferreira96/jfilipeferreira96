@@ -12,7 +12,7 @@
 
 - 🖥️ I’m currently working as a **Full Stack Web Dev at [Heliotextil, S.A](https://www.heliotextil.com/pt)**
 
-- 👨‍🎓 Currently learning **Node.js & Express.js**
+- 👨‍🎓 Currently learning **ReactJS & Node.js**
 
 - 👨‍💻 You can check my Personal Website at **[My Website](https://jfilipeferreira96.github.io/personal-website/)**
 
