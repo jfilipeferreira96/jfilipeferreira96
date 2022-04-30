@@ -64,7 +64,7 @@
 
 <p align="center">    
         <a href = "https://www.linkedin.com/in/jos%C3%A9-filipe-ferreira-501425205"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-        <a href="mailto:jfilipeferreira@ua.pt"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
+        <a href="mailto:filipeferreira96@hotmail.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
 </p>
 
 <br />
