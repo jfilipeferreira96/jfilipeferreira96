@@ -10,15 +10,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🖥️ I’m currently working as a **Full Stack Web Dev at [Heliotextil, S.A](https://www.heliotextil.com/pt)**
-
-- 👨‍🎓 Currently learning **ReactJS & Node.js**
+- 🖥️ I’m currently working as a **React/Next.js & Node.js Dev at [i-charging S.A.](https://i-charging.pt/)**
 
 - 👨‍💻 You can check my Personal Website at **[My Website](https://jfilipeferreira96.github.io/personal-website/)**
 
 - 🌐 I am keen to improve my knowledge of all things web-related.
 
-<!-- - 📫 How to reach me **jfilipeferreira@ua.pt**
+<!-- - 📫 How to reach me **filipeferreira96@hotmail.com**
  -->
 
 ## 🚀 Languages and Tools:
@@ -26,6 +24,12 @@
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img
+    src="https://img.icons8.com/officel/452/react.png" /> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img
+    src="https://img.icons8.com/color/344/nextjs.png" /> </a>
+    <a href="https://nodejs.org/en/" target="_blank"> <img
+    src="https://img.icons8.com/color/344/nodejs.png" /> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
