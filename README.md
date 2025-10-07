@@ -6,7 +6,7 @@
 <p align="left">
     <span></span>
 <p>
-<h1 align="center">Welcome, I'm J. Filipe from Portugal</h1>
+<h1 align="center">Welcome, I'm Filipe from Portugal</h1>
 
 ## 🙋‍♂️ About Me
 
