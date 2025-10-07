@@ -6,13 +6,13 @@
 <p align="left">
     <span></span>
 <p>
-<h1 align="center">Welcome, I'm Filipe from Portugal</h1>
+<h1 align="center">Welcome, I'm J. Filipe from Portugal</h1>
 
 ## 🙋‍♂️ About Me
 
 - 🖥️ I’m currently working as a **React/Next.js & Node.js Dev at [i-charging S.A.](https://i-charging.pt/)**
 
-- 👨‍💻 You can check my Personal Website at **[My Website](https://jfilipeferreira96.github.io/personal-website/)**
+- 👨‍💻 You can check my Personal Website at **[My Website](https://jfilipeferreira.dev/)**
 
 - 🌐 I am keen to improve my knowledge of all things web-related.
 
